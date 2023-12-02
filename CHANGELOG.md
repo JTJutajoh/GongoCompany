@@ -8,6 +8,8 @@ Added:
 - gowPeek
 - WARF
 - odoShocked
+- BERMUS
+- PEPPERONI
 
 # v1.0.1
 - Updated README file
