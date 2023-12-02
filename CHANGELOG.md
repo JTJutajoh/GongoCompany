@@ -12,6 +12,7 @@ Added:
 - PEPPERONI
 - kitchenRat
 - kirkTrip
+- lesPain
 
 # v1.0.1
 - Updated README file
