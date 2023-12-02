@@ -13,6 +13,7 @@ Added:
 - kitchenRat
 - kirkTrip
 - lesPain
+- wideDoc
 
 # v1.0.1
 - Updated README file
