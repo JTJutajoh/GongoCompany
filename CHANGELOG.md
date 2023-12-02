@@ -14,6 +14,7 @@ Added:
 - kirkTrip
 - lesPain
 - wideDoc
+- siskoStare
 
 # v1.0.1
 - Updated README file
