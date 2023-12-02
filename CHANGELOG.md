@@ -11,6 +11,7 @@ Added:
 - BERMUS
 - PEPPERONI
 - kitchenRat
+- kirkTrip
 
 # v1.0.1
 - Updated README file
