@@ -1,3 +1,16 @@
+# v1.0.3
+Added:
+- Cinder
+- Uni
+Updated:
+- PicBust
+- KUSHANGAZA
+- spenXD
+- dataBruh
+- WARF
+- odoShocked
+- kirkTrip
+
 # v1.0.2
 Added:
 - SadCat
