@@ -1,0 +1,14 @@
+{
+  "name": "gongo-company-tooling",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Adds gongo suits SPONDORED BY GONGO",
+  "author": "",
+  "devDependencies": {
+    "eslint": "^9.15.0",
+    "globals": "^15.12.0"
+  },
+  "dependencies": {
+    "@eslint/json": "^0.7.0"
+  }
+}
