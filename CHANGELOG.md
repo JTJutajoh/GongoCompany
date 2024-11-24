@@ -1,7 +1,26 @@
+# v1.0.5
+Added:
+- spynxHappi
+- quarkYea
+- quarkYeaEyes
+- realGeordi
+- odoKEK
+- Roiker
+- garakMmm
+- docDis
+- chatSmile
+- phloxD
+- catWAA
+- SillyCat
+- UWU
+- OYTrip
+- YTrip
+
 # v1.0.3
 Added:
 - Cinder
 - Uni
+
 Updated:
 - PicBust
 - KUSHANGAZA
