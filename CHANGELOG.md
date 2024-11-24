@@ -1,3 +1,10 @@
+# v1.0.6
+Added:
+- Osmo
+- Pepsi
+- Gleeby
+- ObrienWorm
+
 # v1.0.5
 Added:
 - spynxHappi
